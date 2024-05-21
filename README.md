@@ -109,6 +109,12 @@ SQL特訓！
 
 [データ指向アプリケーションデザインを読んでLSM-treeインデックスに基づくKVSを作る](https://dasshshsd.hatenablog.com/entry/2019/12/04/000000)
 
+[第一正規形～第五正規形までを図解](https://bbh.bz/2019/12/04/db-normalization-illustration/)
+
+- [実はインデックスが使用されていないという罠](https://mickindex.sakura.ne.jp/database/db_optimize.html)
+- [複合インデックスではwhere句のカラムの順番を合わせないといけないと思っていたが、今はそうではないみたい](https://ser1zw.hatenablog.com/entry/2023/07/12/081043)
+- [複数カラムを使ってインデックスを作る場合、その順番は重要](https://docs.google.com/presentation/d/1lxB5pbPCMjOzxZEZSc-Nn06H79pfvgdFADgMb_Z37IA/edit#slide=id.g7a91e3dec5_0_165)
+
 # (Other) References
 - [How Compose works](https://docs.docker.com/compose/compose-application-model/)
 - [mysql - Official Image](https://hub.docker.com/_/mysql)
